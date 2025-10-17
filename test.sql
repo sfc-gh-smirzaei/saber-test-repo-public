@@ -1,1 +1,1 @@
-select 'foo2';
+select 'foo3';
